@@ -13,4 +13,8 @@ public class Sales {
     // new sale items
 
     //test
+
+    // holiday sales
+
+    // deals
 }
